@@ -22,8 +22,8 @@ title: Chord Sheets for Folk Songs
 email: https://github.com/sofiasd-lakes
 description: >- # this means to ignore newlines until "baseurl:"
   This site includes lyrics and chords sourced from anonymous contributors to GuitarTabs.
-baseurl: "/folksongs" # the subpath of your site, e.g. /blog
-url: "http://si676-sofiasd-lakes-jekyll" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/si676-fall26" # the subpath of your site, e.g. /blog
+url: "https://sofiasd-lakes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: N/A
 github_username:  sofiasd-lakes
 
