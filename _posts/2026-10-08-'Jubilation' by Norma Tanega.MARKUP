@@ -1,8 +1,8 @@
+---
 layout: post
 title: "'Jubilation' by Norma Tanega"
 date: 2026-10-08
 categories: chord sheet
-
 ---
 
 [Verse 1]
